@@ -10,7 +10,7 @@ namespace PersonEmployee
     {
         static void Main(string[] args)
         {
-            Employee MyEmp = new Employee() { FirstName = "Allan", LastName = "Reitan" };
+            Employee MyEmp = new Employee() { FirstName = "Sample", LastName = "Student" };
 
             MyEmp.SayName();
         }
